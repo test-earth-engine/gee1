@@ -29,11 +29,11 @@ jobs:
         echo "${{ secrets.JSON }}" > credentials.json
         
         echo "import ee; 
-        credentials = ee.ServiceAccountCredentials(${{ secrets.SERVICE_ACCOUNT }}, 'credentials.json')
+        credentials = ee.ServiceAccountCredentials(sys.argv[1], 'credentials.json')
         ee.Initialize(credentials);
         print(ee.String('Hello from the Earth Engine servers!').getInfo()); " > script.py 
 
-        python script.py 
+        python script.py ${{ secrets.SERVICE_ACCOUNT }}
 
     - name: Download Notebook from Colab
       run: |
