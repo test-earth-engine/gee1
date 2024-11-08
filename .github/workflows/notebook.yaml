@@ -23,9 +23,13 @@ jobs:
         python -c "import ee" 
 
     - run: |
+        ## settings/secrets/actions 
+        ## important!! replace 
+        ## When configuring the json data, exchange " for \" 
+        echo "${{ secrets.JSON }}" > credentials.json
+
         python -c "import ee; 
-        json = ${{ secrets.JSON }}
-        credentials = ee.ServiceAccountCredentials(${{ secrets.SERVICE_ACCOUNT }}, json)
+        credentials = ee.ServiceAccountCredentials(${{ secrets.SERVICE_ACCOUNT }}, 'credentials.json')
         ee.Initialize(credentials);
         print(ee.String('Hello from the Earth Engine servers!').getInfo()); "
 
