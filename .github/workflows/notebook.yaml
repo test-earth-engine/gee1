@@ -19,7 +19,7 @@ jobs:
       run: |
         python --version 
         python -m pip --version
-        python -m pip install earthengine-api --upgrade
+        python -m pip install earthengine-api --upgrade --quiet 
         python -c "import ee" 
 
     - run: |
