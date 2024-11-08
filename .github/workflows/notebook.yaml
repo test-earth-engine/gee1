@@ -22,8 +22,10 @@ jobs:
         python -m pip install earthengine-api --upgrade
         python -c "import ee" 
 
+    - run: |
         python -c "import ee; 
-        credentials = ee.ServiceAccountCredentials(${{ secrets.SERVICE_ACCOUNT }}, ${{ secrets.JSON }})
+        json = ${{ secrets.JSON }}
+        credentials = ee.ServiceAccountCredentials(${{ secrets.SERVICE_ACCOUNT }}, json)
         ee.Initialize(credentials);
         print(ee.String('Hello from the Earth Engine servers!').getInfo()); "
 
