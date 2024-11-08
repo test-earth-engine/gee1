@@ -28,7 +28,7 @@ jobs:
         curl -L -o notebook.ipynb "https://drive.google.com/uc?export=download&id=1nepMvRGwKPaO6BgmBhzCEcIphLIqsF1w"
 
     - name: Upload executed notebook
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: executed-notebook
         path: executed_notebook.ipynb
