@@ -28,7 +28,8 @@ jobs:
         ## When configuring the json data, exchange " for \" 
         echo "${{ secrets.JSON }}" > credentials.json
         
-        echo "import ee; 
+        echo "import sys; 
+        import ee; 
         credentials = ee.ServiceAccountCredentials(sys.argv[1], 'credentials.json')
         ee.Initialize(credentials);
         print(ee.String('Hello from the Earth Engine servers!').getInfo()); " > script.py 
