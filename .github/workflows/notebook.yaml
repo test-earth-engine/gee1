@@ -27,7 +27,13 @@ jobs:
         ## important!! replace 
         ## When configuring the json data, exchange " for \" 
         echo "${{ secrets.JSON }}" > credentials.json
+        
+        echo "import ee; 
+        credentials = ee.ServiceAccountCredentials(${{ secrets.SERVICE_ACCOUNT }}, 'credentials.json')
+        ee.Initialize(credentials);
+        print(ee.String('Hello from the Earth Engine servers!').getInfo()); " > script.py 
 
+        python script.py 
 
     - name: Download Notebook from Colab
       run: |
