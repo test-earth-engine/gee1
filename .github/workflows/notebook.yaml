@@ -42,7 +42,7 @@ jobs:
 
     - name: Install Jupyter
       run: |
-        pip install notebook nbconvert
+        pip install notebook nbconvert --quiet 
 
     - name: Run Notebook
       run: |
