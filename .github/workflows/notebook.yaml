@@ -1,4 +1,4 @@
-name: Download and Run Notebook from Colab
+name: "Run Notebook"
 
 on: 
   push :
