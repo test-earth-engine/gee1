@@ -98,16 +98,19 @@ jobs:
         path: map.html
 
     - name: Deploying
+      if : False
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: map.html # The folder the action should deploy.
 
     - name: Upload artifact
+      if : False 
       uses: actions/upload-pages-artifact@v3
       with:
         path: './map.html'
 
     - name: Deploy to GitHub Pages
+      if : False
       id: deployment
       uses: actions/deploy-pages@v4
 
