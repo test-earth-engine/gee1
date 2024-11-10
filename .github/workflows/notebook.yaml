@@ -24,7 +24,7 @@ jobs:
         python -c "import ee" 
 
     - run: |
-        python -c pip install geemap    
+        python -m pip install geemap    
         python -c "import geemap"
 
     - name : Authentification1 
