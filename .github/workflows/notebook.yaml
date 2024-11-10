@@ -23,6 +23,9 @@ jobs:
         python -c "import ee" 
 
     - run: |
+        python earth_tools.py
+
+    - run: |
         ## settings/secrets/actions 
         ## important!! replace 
         ## When configuring the json data, exchange " for \" 
