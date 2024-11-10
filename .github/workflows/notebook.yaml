@@ -93,6 +93,11 @@ jobs:
         name: map
         path: map.html
 
+    - name: Deploying
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: map.html # The folder the action should deploy.
+
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
