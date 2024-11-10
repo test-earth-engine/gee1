@@ -82,4 +82,9 @@ jobs:
         name: executed-notebook
         path: executed_notebook.ipynb
 
+    - name: Upload map
+      uses: actions/upload-artifact@v4
+      with:
+        name: map
+        path: map.html
 
