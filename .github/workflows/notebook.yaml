@@ -5,6 +5,11 @@ on:
   
   workflow_dispatch :
 
+permissions:
+  pages: write
+  contents: read
+  id-token: write
+
 jobs:
   download-and-run-notebook:
     runs-on: ubuntu-latest
