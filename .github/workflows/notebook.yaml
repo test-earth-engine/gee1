@@ -83,13 +83,9 @@ jobs:
 
     - name: Run Notebook
       run: |
-          SERVICE_ACCOUNT="${{ secrets.SERVICE_ACCOUNT }}" jupyter nbconvert --to notebook --execute notebook.ipynb --output executed_notebook.ipynb
-
-    - name: Upload executed notebook
-      uses: actions/upload-artifact@v4
-      with:
-        name: executed-notebook
-        path: executed_notebook.ipynb
+          #SERVICE_ACCOUNT="${{ secrets.SERVICE_ACCOUNT }}" jupyter nbconvert --to notebook --execute notebook.ipynb --output executed_notebook.ipynb
+          jupyter nbconvert --to notebook --execute notebook.ipynb --output executed_notebook.ipynb
+          cp map.html docs/index.html
 
     - name: Upload map
       uses: actions/upload-artifact@v4
@@ -97,21 +93,10 @@ jobs:
         name: map
         path: map.html
 
-    - name: Deploying
-      if : False
-      uses: JamesIves/github-pages-deploy-action@v4
+    - name: Upload executed notebook
+      uses: actions/upload-artifact@v4
       with:
-        folder: map.html # The folder the action should deploy.
-
-    - name: Upload artifact
-      if : False 
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: './map.html'
-
-    - name: Deploy to GitHub Pages
-      if : False
-      id: deployment
-      uses: actions/deploy-pages@v4
+        name: executed-notebook
+        path: executed_notebook.ipynb
 
 
