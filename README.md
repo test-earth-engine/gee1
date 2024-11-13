@@ -14,3 +14,5 @@
 - ACLED | Armed Conflict Location & Event Data, https://acleddata.com/conflict-exposure/
 
 - HUMAN CLIMATE HORIZONS, https://horizons.hdr.undp.org/
+
+- States Codes, https://github.com/andybega/states
