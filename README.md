@@ -15,4 +15,7 @@
 
 - HUMAN CLIMATE HORIZONS, https://horizons.hdr.undp.org/
 
-- States Codes, https://github.com/andybega/states
+- States Codes,
+  - https://github.com/andybega/states
+  - ksg_states_url <- "http://ksgleditsch.com/data/iisystem.dat"
+  - ksg_microstates_url <- "http://ksgleditsch.com/data/microstatessystem.dat"
