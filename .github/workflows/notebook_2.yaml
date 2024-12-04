@@ -68,7 +68,8 @@ jobs:
         ## GITHUB_TOKEN is automatically generated 
         git add Population/population.json
         git commit -m "output.json updated"
-        git push https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+        ##git push https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+        git push origin main
           
 
 
