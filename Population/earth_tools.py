@@ -3,6 +3,7 @@ import json
 import requests
 from google.oauth2 import service_account
 
+
 def total_population_get(dataset, region_of_interest) :
   clipped_dataset = dataset.unmask(0).clip(region_of_interest)
 
