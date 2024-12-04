@@ -36,9 +36,14 @@ geojson_url  = "https://raw.githubusercontent.com/test-earth-engine/gee1/main/Js
 
 response = requests.get(geojson_url)
 geojson_data = response.json()
-print(geojson_data['type']) ## FeatureCollection
+print("type:", geojson_data['type']) ## FeatureCollection
 
-geojson_feature = ee.FeatureCollection(geojson_data)
+if geojson_data['type'] == "Feature" :
+  geojson_feature = ee.Feature(geojson_data)
+  geojson_feature = ee.FeatureCollection([geojson_feature])
+else : 
+  geojson_feature = ee.FeatureCollection(geojson_data)
+
 region_of_interest = geojson_feature.geometry()
 
 
