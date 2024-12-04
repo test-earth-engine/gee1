@@ -34,7 +34,9 @@ jobs:
         echo "${{ github.actor }}" 
         gh auth status
         git commit --allow-empty -m "This is an empty commit"
-        git push origin main
+        #git push origin main
+        git push https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+
 
     - name: Set up Python
       uses: actions/setup-python@v5
