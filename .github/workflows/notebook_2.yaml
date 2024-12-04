@@ -61,7 +61,6 @@ jobs:
         mv output.json Population/population.json
         find . 
         
-    - run: |
         git add Population/population.json
         git commit -m "output.json updated"
         git push origin main
