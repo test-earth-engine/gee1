@@ -9,7 +9,7 @@ on:
       
 permissions:
   pages: write
-  contents: write
+  contents: write ## allows commit
   id-token: write
 
 
@@ -30,13 +30,11 @@ jobs:
     - env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       run : | 
+        ## This is only a test. Unnecessary here
         git config user.name "${{ github.actor }}"
         git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
         echo "${{ github.actor }}" 
         gh auth status
-        git commit --allow-empty -m "This is an empty commit"
-        #git push origin main
-        git push https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
 
 
     - name: Set up Python
@@ -67,9 +65,10 @@ jobs:
         find . 
         
     - run: |
+        ## GITHUB_TOKEN is automatically generated 
         git add Population/population.json
         git commit -m "output.json updated"
-        git push origin main
+        git push https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
           
 
 
