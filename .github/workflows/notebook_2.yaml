@@ -4,11 +4,9 @@ on:
   workflow_dispatch :
 
   push :
-    paths-ignore : 
-      - README.md 
-  issues:
-    types: [opened, edited, milestoned]
-
+    paths: 
+      Population 
+      
 permissions:
   pages: write
   contents: read
@@ -51,7 +49,7 @@ jobs:
         ## When configuring the json data, exchange " for \" 
         echo "${{ secrets.JSON }}" > credentials.json
         
-        python earth_tools.py
+        python Population/earth_tools.py
         ls -la 
         more output.json 
 
