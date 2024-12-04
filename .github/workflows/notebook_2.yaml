@@ -62,6 +62,6 @@ jobs:
         find . 
         
         git add Population/population.json
-        git commit -m "output.json updated"
+        git commit --allow-empty -m "output.json updated"
         git push origin main
           
