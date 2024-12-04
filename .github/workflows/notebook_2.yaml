@@ -62,7 +62,7 @@ jobs:
         find . 
         
     - run: |
-        git add Population/output.json 
+        git add Population/population.json
         git commit -m "output.json updated"
         git push origin main
           
