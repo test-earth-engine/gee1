@@ -3,9 +3,9 @@ name: "notebook_2"
 on: 
   workflow_dispatch :
 
-  push :
-    paths: 
-      - 'Jsons/conflict.geojson'
+  #push :
+  #  paths: 
+  #    - 'Jsons/conflict.geojson'
       
 permissions:
   pages: write
