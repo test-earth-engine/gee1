@@ -5,7 +5,7 @@ on:
 
   push :
     paths: 
-      - 'Population/**'
+      - 'Jsons/conflict.geojson'
       
 permissions:
   pages: write
@@ -59,8 +59,13 @@ jobs:
         
         python Population/earth_tools.py
         ls -la 
-        more output.json 
-
+        mv output.json Population/population.json
+        
+    - run: |
+        git add output.json 
+        git commit -m "Population/output.json"
+        git push origin main
+          
 
 
 
