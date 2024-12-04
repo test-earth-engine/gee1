@@ -26,6 +26,14 @@ jobs:
     - name: Checkout 
       uses: actions/checkout@v4
 
+    - env:
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      run : | 
+        git config user.name "${{ github.actor }}"
+        git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+        echo "${{ github.actor }}" 
+        gh auth status
+          
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
