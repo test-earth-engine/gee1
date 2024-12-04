@@ -1,22 +1,22 @@
 [
     {
         "start_date": "2000-01-01",
-        "population_value": 1226454.9347527083
+        "population_value": 8804963.9285317
     },
     {
         "start_date": "2005-01-01",
-        "population_value": 1435096.9082104636
+        "population_value": 9990592.329193717
     },
     {
         "start_date": "2010-01-01",
-        "population_value": 1680363.3613409228
+        "population_value": 11354312.848721847
     },
     {
         "start_date": "2015-01-01",
-        "population_value": 1968835.7142921644
+        "population_value": 12926219.058160434
     },
     {
         "start_date": "2020-01-01",
-        "population_value": 2308300.8909377586
+        "population_value": 14742442.042894201
     }
 ]
