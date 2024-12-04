@@ -3,6 +3,10 @@ name: simplest_workflow_dispatch
 on:
   workflow_dispatch:
 
+concurrency:
+  group: "workflow-group-${{ github.ref }}" 
+  cancel-in-progress: true 
+
 jobs:
   example-job:
     runs-on: ubuntu-latest
