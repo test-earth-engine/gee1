@@ -69,4 +69,9 @@ jobs:
         git add Population/population.json
         git commit --allow-empty -m "output.json updated"
         git push origin main
-          
+
+    - name: Upload map
+      uses: actions/upload-artifact@v4
+      with:
+        name: population
+        path: Population/population.json
