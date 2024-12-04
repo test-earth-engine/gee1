@@ -9,7 +9,7 @@ on:
       
 permissions:
   pages: write
-  contents: write ## allows commit
+  contents: write
   id-token: write
 
 
@@ -65,9 +65,9 @@ jobs:
         find . 
         
     - run: |
-        ## GITHUB_TOKEN is automatically generated 
         git add Population/population.json
         git commit -m "output.json updated"
+        git status 
         git push https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
         ##git push origin main
           
