@@ -58,12 +58,12 @@ jobs:
         echo "${{ secrets.JSON }}" > credentials.json
         
         python Population/earth_tools.py
-        ls -la 
         mv output.json Population/population.json
+        find . 
         
     - run: |
-        git add output.json 
-        git commit -m "Population/output.json"
+        git add Population/output.json 
+        git commit -m "output.json updated"
         git push origin main
           
 
