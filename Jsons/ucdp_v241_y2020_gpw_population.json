@@ -1,0 +1,1366 @@
+{
+    "Afghanistan": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 26366300.903961167
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 28950109.06453464
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 31984663.797627393
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 35524931.17071788
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 39638138.538149714
+        }
+    ],
+    "Algeria": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 4986110.143347442
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 5308791.936064149
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 5678474.241867955
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 6107710.894165489
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 6637067.64486855
+        }
+    ],
+    "Angola": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 2458948.1383077945
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 3168878.8067304953
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 5027755.373443597
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 9335634.07711337
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 18970190.21669906
+        }
+    ],
+    "Armenia": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 2436089.4451926993
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 2297297.5015567713
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 2230193.0295628486
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 2201599.642552992
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 2194838.6878017797
+        }
+    ],
+    "Austria": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 2441949.3719323366
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 2554790.2915351847
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 2674238.4969093613
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 2800742.142540672
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 2934790.395165072
+        }
+    ],
+    "Azerbaijan": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 4326106.673610293
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 4380648.35594388
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 4462068.035792849
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 4563991.803207573
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 4682989.5082157375
+        }
+    ],
+    "Bangladesh": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 27525503.71795167
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 31124927.02208782
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 35335205.814306825
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 40278091.039673604
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 46102591.131509386
+        }
+    ],
+    "Benin": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 194606.3501055876
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 235040.0677639435
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 284238.49344348157
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 344178.2884355749
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 417298.0441905843
+        }
+    ],
+    "Brazil": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 58950610.19338238
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 62344661.26224872
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 66042510.00496496
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 70082350.59527597
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 74509401.30696559
+        }
+    ],
+    "Burkina Faso": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 7330746.620930329
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 8710759.98035558
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 10442102.271842994
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 12638406.235884842
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 15457101.50097261
+        }
+    ],
+    "Burundi": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 10409442.225456033
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 11801141.285571279
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 13493010.650441954
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 15559086.021112373
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 18098256.441545643
+        }
+    ],
+    "Cameroon": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 10311868.650728054
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 11843281.566247681
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 13649101.00395038
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 15782896.848893492
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 18309467.961585753
+        }
+    ],
+    "Central African Republic": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 2280591.236785926
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 2548909.4409192936
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 2851110.8242802676
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 3191872.8616956016
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 3576585.141189364
+        }
+    ],
+    "Chad": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 614481.2249037455
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 735621.3129919763
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 881970.1730614295
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 1059209.3491349088
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 1274444.3349195658
+        }
+    ],
+    "Colombia": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 20088161.912217453
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 22660813.808388483
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 25756271.16440845
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 29558036.664096672
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 34390587.14401938
+        }
+    ],
+    "Congo": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 1053161.9403539237
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 860115.1596808849
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 736099.2524090647
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 687622.5233794443
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 737335.3310239118
+        }
+    ],
+    "DR Congo (Zaire)": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 27532596.155579276
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 31957996.375466485
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 37624357.0069322
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 44931307.76583414
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 54498597.684287496
+        }
+    ],
+    "Egypt": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 20873627.41630596
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 22794467.685370296
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 25168751.401561726
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 28244059.17447105
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 32488384.268632285
+        }
+    ],
+    "Ethiopia": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 31841001.44120631
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 36364767.157799184
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 41548694.48146728
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 47491458.666759744
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 54306826.90950033
+        }
+    ],
+    "Guinea": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 842305.9457162898
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 873511.7593483527
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 911574.0743032935
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 957149.2965816633
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 1011030.1170140606
+        }
+    ],
+    "Haiti": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 3351143.687060167
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 3797201.741794661
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 4407379.294663821
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 5226678.678435682
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 6327329.803649248
+        }
+    ],
+    "Honduras": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 1224344.1247229888
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 1362162.0901591112
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 1516801.1956024463
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 1690492.9572786987
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 1885798.0559193878
+        }
+    ],
+    "India": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 160835613.50115448
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 176419395.6965656
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 193895502.9760098
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 213522255.49284163
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 235599682.54934967
+        }
+    ],
+    "Indonesia": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 341599.31637671735
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 516118.0365033537
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 802209.7903664914
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 1284794.2127220687
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 2121936.064377035
+        }
+    ],
+    "Iran": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 21430283.594822258
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 19818802.22544652
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 19847692.799624413
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 20587567.229533907
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 21707611.167722248
+        }
+    ],
+    "Iraq": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 19946399.641753152
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 22924372.941907782
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 26444594.038815845
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 30630193.06859869
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 35639733.9926082
+        }
+    ],
+    "Israel": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 8830592.310710683
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 9877921.503197676
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 11064084.438783918
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 12408537.994699892
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 13933599.483290855
+        }
+    ],
+    "Ivory Coast": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 604086.9686517445
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 642276.110061096
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 684604.2757995604
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 731622.6734204459
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 783964.6179436293
+        }
+    ],
+    "Kenya": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 17794404.828825016
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 20758297.864241604
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 24351655.95086551
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 28762295.69852248
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 34254495.12712286
+        }
+    ],
+    "Kingdom of eSwatini (Swaziland)": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 760152.2809568436
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 784639.0126841324
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 810332.6674144996
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 837292.3891920072
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 865580.4434379956
+        }
+    ],
+    "Lebanon": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 3548797.393179095
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 4119403.207298828
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 4824110.767001721
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 5699439.47010432
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 6793664.417682752
+        }
+    ],
+    "Liberia": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 1308017.52037689
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 1488120.9401356454
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 1699807.4094763384
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 1948692.2395936956
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 2241428.933473358
+        }
+    ],
+    "Libya": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 2462281.6271328507
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 2650223.5880622678
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 2852512.5460723764
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 3070243.8409248167
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 3304596.3901748355
+        }
+    ],
+    "Madagascar (Malagasy)": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 318575.806958819
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 400193.8703198874
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 504011.9660045794
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 636288.0244005462
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 805081.1241981566
+        }
+    ],
+    "Mali": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 4481351.0950637255
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 5254176.070338466
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 6209777.260561221
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 7406062.049220376
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 8930202.908729844
+        }
+    ],
+    "Mauritania": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 234131.06895787155
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 263198.5722289852
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 296455.86538621405
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 334562.66203861637
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 378296.93528404256
+        }
+    ],
+    "Mexico": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 83085224.79327765
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 89634486.08942437
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 97432615.83738951
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 107224115.92862155
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 122146551.84115225
+        }
+    ],
+    "Morocco": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 187.01497726109164
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 188.86038809116624
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 192.2668431776814
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 197.3354614194008
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 204.18975406501306
+        }
+    ],
+    "Mozambique": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 1304124.0691109707
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 1430351.1588067024
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 1578248.038347972
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 1753308.4443472512
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 1962990.9627128344
+        }
+    ],
+    "Myanmar (Burma)": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 6473315.494550535
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 6374159.406054975
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 6346235.854595845
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 6387609.009721716
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 6497443.740294176
+        }
+    ],
+    "Niger": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 3065401.721850316
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 3618239.4910698263
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 4284563.410095871
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 5093144.622313816
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 6082762.442561316
+        }
+    ],
+    "Nigeria": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 72158881.78506187
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 83949183.08639261
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 97682327.31107841
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 113683222.7307545
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 132332951.99267659
+        }
+    ],
+    "Pakistan": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 57173207.818656355
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 64495285.79469015
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 72803185.86170998
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 82235698.6736643
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 92952196.15563442
+        }
+    ],
+    "Paraguay": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 130224.50090704938
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 144934.73909251663
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 161362.1914744362
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 179712.2502228638
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 200215.3543538919
+        }
+    ],
+    "Peru": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 295602.4727877126
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 312228.9067615119
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 332583.4530225124
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 357576.34853008896
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 388396.13997213537
+        }
+    ],
+    "Philippines": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 65360690.404616624
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 68575560.8683582
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 73330524.03185372
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 79570181.24125178
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 87392917.55198437
+        }
+    ],
+    "Russia (Soviet Union)": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 8694422.249716569
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 8677795.684313891
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 8680114.51744569
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 8701941.405751292
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 8743955.370429862
+        }
+    ],
+    "Saudi Arabia": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 798726.1351555969
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 958424.552499505
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 1150053.2883270725
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 1379996.5418752425
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 1655914.9748325201
+        }
+    ],
+    "Senegal": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 400966.71510766284
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 456755.411517982
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 520720.4768539457
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 594088.5636071282
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 678272.4375157696
+        }
+    ],
+    "Somalia": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 4484407.214920223
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 5195512.93406158
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 6055227.065940704
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 7111772.240379564
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 8435256.80341148
+        }
+    ],
+    "South Africa": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 14434745.827289892
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 16098014.606341943
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 18001004.321096614
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 20179529.96118613
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 22675025.15620134
+        }
+    ],
+    "South Sudan": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 3216882.517885851
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 3759500.926519555
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 4461221.159316181
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 5400564.67988612
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 6727043.293034554
+        }
+    ],
+    "Sudan": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 7136739.867387301
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 8190244.7928707395
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 9448637.948316561
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 10954523.161425654
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 12759833.646929681
+        }
+    ],
+    "Syria": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 22383083.51736812
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 25331302.074166298
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 28752031.656811375
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 32736420.16756623
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 37399558.8442124
+        }
+    ],
+    "Tanzania": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 2733543.452462582
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 3063365.9578570845
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 3444967.194039681
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 3887909.9485924523
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 4403704.077404692
+        }
+    ],
+    "Thailand": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 3257210.5582293975
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 3401439.0217192373
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 3556059.1735711657
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 3721906.172150057
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 3899884.2153938697
+        }
+    ],
+    "Tunisia": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 4185008.7014424223
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 4501366.327325673
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 4863246.3394966535
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 5278503.32886031
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 5756720.102630306
+        }
+    ],
+    "Turkey": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 11003980.534881502
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 11320388.673630277
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 11915896.502302168
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 12784757.9943604
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 13964914.359211786
+        }
+    ],
+    "Ukraine": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 6958498.409845306
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 6652257.312914407
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 6361831.892683153
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 6086295.177865262
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 5824780.348504446
+        }
+    ],
+    "Venezuela": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 7185794.305939245
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 7678207.698897914
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 8221970.0262826085
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 8824244.769072598
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 9493867.497364094
+        }
+    ],
+    "Yemen (North Yemen)": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 16813671.532967094
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 19276571.227151252
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 22101288.259184204
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 25341165.359421987
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 29057448.37623614
+        }
+    ],
+    "Zimbabwe (Rhodesia)": [
+        {
+            "start_date": "2000-01-01",
+            "population_value": 154565.05746423273
+        },
+        {
+            "start_date": "2005-01-01",
+            "population_value": 175175.51581669186
+        },
+        {
+            "start_date": "2010-01-01",
+            "population_value": 199188.63456810472
+        },
+        {
+            "start_date": "2015-01-01",
+            "population_value": 227207.8259263578
+        },
+        {
+            "start_date": "2020-01-01",
+            "population_value": 259949.0406645473
+        }
+    ]
+}
