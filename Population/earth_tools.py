@@ -4,6 +4,20 @@ import requests
 from google.oauth2 import service_account
 
 
+def population_calculate(collection, region_of_interest): 
+  #collection = ee.ImageCollection('CIESIN/GPWv411/GPW_Population_Count')
+  available_dates = collection.aggregate_array('system:time_start').map(lambda t: ee.Date(t).format('YYYY-MM-dd'))
+
+  population = {}
+  json_data = []
+  for start_date in available_dates.getInfo() :
+    subcollection = collection.filterDate(start_date, None)
+    population_value, clipped_dataset = total_population_get(subcollection.first(), region_of_interest)
+    print(start_date, population_value )
+    population[start_date] = population_value,clipped_dataset
+    json_data.append({'start_date':start_date, 'population_value':population_value})
+  return json_data
+
 def total_population_get(dataset, region_of_interest) :
   clipped_dataset = dataset.unmask(0).clip(region_of_interest)
 
