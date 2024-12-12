@@ -17,7 +17,7 @@ jobs:
       - name: Creating dummies
         run: |
           mkdir Dummies
-          dd if=/dev/zero of=Dummies/dummy1.txt bs=1M count=10
+          dd if=/dev/zero of=Dummies/artifact_1.txt bs=1M count=10
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
