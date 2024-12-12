@@ -12,8 +12,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4 
+        
       - name: Run a simple script
-        run: echo "Hello, world!"
+        run: |
+          echo "Hello, world!"
+          dd if=/dev/zero of=dummy0.txt bs=1M count=10
+          mv dummy0.txt Dummies/dummy1.txt
+
+      - name: Upload map
+        uses: actions/upload-artifact@v4
+        with:
+          name: population
+          path: Dummies/dummy1.txt
 
 
