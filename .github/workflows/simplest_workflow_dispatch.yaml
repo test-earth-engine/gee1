@@ -14,17 +14,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4 
         
-      - name: Run a simple script
+      - name: Creating dummies
         run: |
-          echo "Hello, world!"
           mkdir Dummies
           dd if=/dev/zero of=Dummies/dummy1.txt bs=1M count=10
-          #mv dummy0.txt Dummies/dummy1.txt
 
-      - name: Upload map
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: population
+          name: artifact_name 
           path: Dummies/dummy1.txt
 
 
