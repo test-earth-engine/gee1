@@ -17,8 +17,9 @@ jobs:
       - name: Run a simple script
         run: |
           echo "Hello, world!"
-          dd if=/dev/zero of=dummy0.txt bs=1M count=10
-          mv dummy0.txt Dummies/dummy1.txt
+          mkdir Dummies
+          dd if=/dev/zero of=Dummies/dummy1.txt bs=1M count=10
+          #mv dummy0.txt Dummies/dummy1.txt
 
       - name: Upload map
         uses: actions/upload-artifact@v4
